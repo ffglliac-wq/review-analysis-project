@@ -10,7 +10,7 @@
 - Matplotlib (визуализация)
 - Регулярные выражения (очистка текста)
 - 
-## 📊 Данные
+## Данные
 **Источник:** [Amazon Product Reviews Dataset](https://www.kaggle.com/datasets/yasserh/amazon-product-reviews-dataset)
 **Описание:** Датасет содержит отзывы клиентов Amazon о различных товарах.
 **Размер:** 1597 отзывов, 27 колонок
